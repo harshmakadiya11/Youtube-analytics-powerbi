@@ -26,7 +26,7 @@ Tracks subscriber count, video stats, sentiment analysis on comments, and future
 
 ## 📸 Dashboard Preview
 
-(Add a screenshot of your Power BI report)
+![image](https://github.com/user-attachments/assets/137763f9-e150-4bf5-985e-e232ed20e32f)
 
 ---
 
